@@ -11,6 +11,13 @@
 		D1888CD02A845CBF006564DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CCF2A845CBF006564DB /* ContentView.swift */; };
 		D1888CD22A845CC1006564DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1888CD12A845CC1006564DB /* Assets.xcassets */; };
 		D1888CD52A845CC1006564DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1888CD42A845CC1006564DB /* Preview Assets.xcassets */; };
+		D1888CDC2A846040006564DB /* info2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CDB2A846040006564DB /* info2.swift */; };
+		D1888CDE2A84604E006564DB /* info3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CDD2A84604E006564DB /* info3.swift */; };
+		D1888CE02A846062006564DB /* home.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CDF2A846062006564DB /* home.swift */; };
+		D1888CE22A84607B006564DB /* prod1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CE12A84607B006564DB /* prod1.swift */; };
+		D1888CE42A846098006564DB /* prod2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CE32A846098006564DB /* prod2.swift */; };
+		D1888CE82A8460DC006564DB /* prod3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CE72A8460DC006564DB /* prod3.swift */; };
+		D1888CEE2A84614F006564DB /* info1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1888CED2A84614F006564DB /* info1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +26,13 @@
 		D1888CCF2A845CBF006564DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D1888CD12A845CC1006564DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1888CD42A845CC1006564DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D1888CDB2A846040006564DB /* info2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = info2.swift; sourceTree = "<group>"; };
+		D1888CDD2A84604E006564DB /* info3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = info3.swift; sourceTree = "<group>"; };
+		D1888CDF2A846062006564DB /* home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = home.swift; sourceTree = "<group>"; };
+		D1888CE12A84607B006564DB /* prod1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prod1.swift; sourceTree = "<group>"; };
+		D1888CE32A846098006564DB /* prod2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prod2.swift; sourceTree = "<group>"; };
+		D1888CE72A8460DC006564DB /* prod3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prod3.swift; sourceTree = "<group>"; };
+		D1888CED2A84614F006564DB /* info1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = info1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +67,13 @@
 			children = (
 				D1888CCD2A845CBF006564DB /* EsteeLauderDesignApp.swift */,
 				D1888CCF2A845CBF006564DB /* ContentView.swift */,
+				D1888CED2A84614F006564DB /* info1.swift */,
+				D1888CDB2A846040006564DB /* info2.swift */,
+				D1888CDD2A84604E006564DB /* info3.swift */,
+				D1888CDF2A846062006564DB /* home.swift */,
+				D1888CE12A84607B006564DB /* prod1.swift */,
+				D1888CE32A846098006564DB /* prod2.swift */,
+				D1888CE72A8460DC006564DB /* prod3.swift */,
 				D1888CD12A845CC1006564DB /* Assets.xcassets */,
 				D1888CD32A845CC1006564DB /* Preview Content */,
 			);
@@ -137,7 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1888CE42A846098006564DB /* prod2.swift in Sources */,
+				D1888CE22A84607B006564DB /* prod1.swift in Sources */,
 				D1888CD02A845CBF006564DB /* ContentView.swift in Sources */,
+				D1888CDE2A84604E006564DB /* info3.swift in Sources */,
+				D1888CEE2A84614F006564DB /* info1.swift in Sources */,
+				D1888CDC2A846040006564DB /* info2.swift in Sources */,
+				D1888CE02A846062006564DB /* home.swift in Sources */,
+				D1888CE82A8460DC006564DB /* prod3.swift in Sources */,
 				D1888CCE2A845CBF006564DB /* EsteeLauderDesignApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
